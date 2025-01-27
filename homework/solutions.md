@@ -28,7 +28,7 @@ postgres:5432
 ```
 It also works with hostname: db
 ## Question 3-6
-Please see the solution in the attached file.
+Please see the solution in [the attached file](https://github.com/Nikonotea/data-engineering-zoomcamp/blob/module_1/homework/homework_1.ipynb).
 ### Question 3
 Answer : 104,802; 198,924; 109,603; 27,678; 35,189
 ### Question 4
